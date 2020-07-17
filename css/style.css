@@ -1,0 +1,109 @@
+body{
+  background-color: #e4f9ff;
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+
+
+}
+.hr{
+  border-style: none none;
+  border-top-style: dotted;
+  border-color: #66BFBF;
+  border-width: 5px;
+  width: 5%;
+}
+.hr1{
+  width: 50%;
+  border-color:black;
+}
+
+h1{
+  margin-top: 0;
+  width: 80%;
+  font-size: 300;
+  font-weight: bold;
+  margin: 0 auto 0 auto;
+  font-family: 'Parisienne', cursive;
+  color: #24a19c;
+}
+
+h2{
+  font-weight: bold;
+  font-family: 'Amatic SC', cursive;
+}
+
+h3{
+  font-family: 'Amatic SC', cursive;
+}
+p{
+  font-family: 'Sacramento', cursive;
+  font-weight: 50px;
+}
+
+.edu{
+    height: 200px
+}
+.hob{
+  height: 200px;
+}
+.my{
+height: 200px;
+
+}
+.KSL{
+  font-size: 50px;
+  font-family: 'Parisienne', cursive;
+}
+
+.F{
+  font-size: 120px;
+  font-family: 'Parisienne', cursive;
+}
+.Pro{
+  text-decoration: underline;
+  color: orange;
+}
+
+.montain{
+ position: relative;
+ width: 1000px;
+ height: 700px;
+}
+
+.t-cloud{
+  position: absolute;
+  right: 600px;
+  top: 50px;
+}
+
+.b-cloud{
+  position:absolute;
+  bottom:600px;
+  left: 600px;
+}
+.top-container{
+  background-color: #eaffd0;
+  margin: 10px;
+padding-top: 100px;
+position: relative;
+}
+.mid-container{
+  background-color: #a6e3e9;
+  font-size: 30px;
+}
+
+.d-container{
+  background-color: #ffb6b9;
+  font-size: 30px;
+}
+.middle-container{
+  background-color: #eaffd0;
+  font-style: 50px;
+}
+.qi{
+  width: 300px;
+}
+.i-container{
+  background-color: #eaf65a;
+  font-size: 30px;
+}
